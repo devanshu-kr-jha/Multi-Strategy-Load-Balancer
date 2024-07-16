@@ -1,5 +1,4 @@
 # Multi-Strategy Load Balancer
----
 
 ## Introduction
 
